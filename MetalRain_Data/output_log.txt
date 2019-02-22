@@ -1,0 +1,60 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.171 seconds
+Platform assembly: C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Pav\Documents\Unity\4GC3_TwinStick\MetalRain_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.298801 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: b8c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Background Music') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.418400 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 0.653647 ms (FindLiveObjects: 0.066886 ms CreateObjectMapping: 0.078565 ms MarkObjects: 0.482007 ms  DeleteObjects: 0.025126 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.363322 ms
+
+Unloading 281 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.887573 ms (FindLiveObjects: 0.024418 ms CreateObjectMapping: 0.039990 ms MarkObjects: 0.278162 ms  DeleteObjects: 0.544647 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.750614 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.558095 ms (FindLiveObjects: 0.030789 ms CreateObjectMapping: 0.035389 ms MarkObjects: 0.477052 ms  DeleteObjects: 0.013448 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491208 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.336201 ms (FindLiveObjects: 0.031850 ms CreateObjectMapping: 0.030435 ms MarkObjects: 0.262945 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.400965 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 722.
+Total: 0.708501 ms (FindLiveObjects: 0.054146 ms CreateObjectMapping: 0.069009 ms MarkObjects: 0.556325 ms  DeleteObjects: 0.028665 ms)
+
